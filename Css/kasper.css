@@ -141,7 +141,7 @@ header nav ul li a:hover {
 .landing{
   background-color: #19c8fa;
   min-height: 100vh;
-  background-image: url(/images/pexels-photo-10594804.jpeg);
+  background-image: url(images/pexels-photo-10594804.jpeg);
   background-size: cover;
   position: relative;
 }
