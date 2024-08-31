@@ -141,7 +141,7 @@ header nav ul li a:hover {
 .landing{
   background-color: #19c8fa;
   min-height: 100vh;
-  background-image: url(images/pexels-photo-10594804.jpeg);
+  background-image: url(pexels-photo-10594804.jpeg);
   background-size: cover;
   position: relative;
 }
@@ -329,7 +329,7 @@ header nav ul li a:hover {
   padding-bottom: var(--padding-main);
   height: 600px;
   position: relative;
-  background-image: url(images/pexels-photo-9788670.jpeg);
+  background-image: url(pexels-photo-9788670.jpeg);
   background-size:cover ;
   display: flex;
   align-items: center;
@@ -547,7 +547,7 @@ width: 100%;
   padding-top: var(--padding-main);
   padding-bottom: var(--padding-main);
   text-align: center;
-  background-image: url(images/pexels-photo-346529.jpeg);
+  background-image: url(pexels-photo-346529.jpeg);
   background-size: cover;
   position: relative;
 }
@@ -752,7 +752,7 @@ width: 100%;
 
 .master{
   text-align: center;
-  background-image: url(images/pexels-photo-11297076.jpeg);
+  background-image: url(pexels-photo-11297076.jpeg);
   padding-top: 100px;
   padding-bottom: 100px;
   background-size: cover;
@@ -906,7 +906,7 @@ width: 100%;
 .sup{
 padding-top: var(--padding-main);
 padding-bottom: var(--padding-main);
-background-image: url(images/pexels-photo-11297076.jpeg);
+background-image: url(pexels-photo-11297076.jpeg);
 background-size: cover;
 position: relative;
 color: white;
@@ -1113,7 +1113,7 @@ cursor: pointer;
 .footer{
   padding-top: calc(var(--padding-main) /2);
   padding-bottom: 200px ;
-  background-image: url(images/pexels-photo-12347260.jpeg);
+  background-image: url(pexels-photo-12347260.jpeg);
   background-size:cover ;
   position: relative;
   text-align: center;
